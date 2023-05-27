@@ -71,7 +71,7 @@ body {
   display: block;
 }
 
-.box-text a {
+.card-box__text a {
   color: var(--White);
   text-decoration: none;
   font-weight: 600;
@@ -80,7 +80,7 @@ body {
   display: inline-block;
 }
 
-.box-text a:hover {
+.card-box__text a:hover {
   color: var(--cyan);
 }
 
